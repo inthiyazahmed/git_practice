@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 class a
-{public:
+{
+public:
     void get()
     {
         cout << "this is aaaa";
